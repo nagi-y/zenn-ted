@@ -1,0 +1,18 @@
+{
+  "name": "zenn-ted",
+  "version": "1.0.0",
+  "description": "テッドの Zenn 執筆リポジトリ",
+  "private": true,
+  "scripts": {
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book",
+    "preview": "zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagi-y/zenn-ted.git"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.4.5"
+  }
+}
