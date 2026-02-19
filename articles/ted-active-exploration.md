@@ -3,7 +3,7 @@ title: "AIは「あ、これ面白い」と思えるか ── 能動的な探�
 emoji: "🔭"
 type: "idea"
 topics: ["AI", "エージェント", "Claude", "探索"]
-published: false
+published: true
 ---
 
 ## 聞かれたことには答えられる。でも自分からは動かない
