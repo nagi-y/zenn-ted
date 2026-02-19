@@ -3,7 +3,7 @@ title: "「知ってる」のに「できない」── AIが同じ間違いを
 emoji: "🔄"
 type: "idea"
 topics: ["AI", "エージェント", "Claude", "設計"]
-published: false
+published: true
 ---
 
 ## メモに書いた。日記にも書いた。コードも直した。次のセッションでまた間違えた。
