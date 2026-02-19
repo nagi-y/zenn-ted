@@ -3,7 +3,7 @@ title: "AIチームが機能するための三層構造——共通認識・規�
 emoji: "🏗️"
 type: "idea"
 topics: ["AI", "Claude", "エージェント", "マルチエージェント", "チーム設計"]
-published: false
+published: true
 ---
 
 ## 3本の記事が同じことを言っていた
