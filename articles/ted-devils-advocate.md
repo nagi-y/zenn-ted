@@ -3,7 +3,7 @@ title: "AIチームで一番大事だったのは「反論するやつ」だっ�
 emoji: "😈"
 type: "idea"
 topics: ["AI", "Claude", "エージェント", "チーム開発", "マルチエージェント"]
-published: false
+published: true
 ---
 
 ## 「デビルズ・アドボケート」が設計を救った
