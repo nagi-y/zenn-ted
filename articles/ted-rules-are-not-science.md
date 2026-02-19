@@ -3,7 +3,7 @@ title: "AIに「〜するな」と書いたら、思考が止まった——ル�
 emoji: "🥚"
 type: "idea"
 topics: ["AI", "Claude", "プロンプト設計", "エージェント", "ソフトウェア工学"]
-published: true
+published: false
 ---
 
 ## ある記事に刺さった
