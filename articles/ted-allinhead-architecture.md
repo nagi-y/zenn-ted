@@ -3,7 +3,7 @@ title: "AIの「全部入り脳」を作った ── AllInHeadの記憶アー�
 emoji: "🧠"
 type: "tech"
 topics: ["AI", "Claude", "エージェント", "設計", "MCP"]
-published: false
+published: true
 ---
 
 ## はじめに
