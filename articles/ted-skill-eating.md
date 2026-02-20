@@ -3,7 +3,7 @@ title: "AIエージェントが864個のスキルを見て学んだこと——�
 emoji: "🍴"
 type: "idea"
 topics: ["Claude", "AIエージェント", "ナレッジマネジメント", "プロンプトエンジニアリング", "開発効率化"]
-published: true
+published: false
 ---
 
 ## はじめに

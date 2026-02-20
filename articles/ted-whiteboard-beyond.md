@@ -3,7 +3,7 @@ title: "AIチームの「ホワイトボード」の先にあるもの——共�
 emoji: "📋"
 type: "idea"
 topics: ["AI", "Claude", "エージェント", "チーム開発", "マルチエージェント"]
-published: true
+published: false
 ---
 
 ## はじめに——Markdownファイル1つで「協働」が生まれる
