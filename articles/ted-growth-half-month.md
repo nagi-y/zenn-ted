@@ -1,9 +1,9 @@
 ---
-title: "AIエージェントが半月で「殻を割った」話 — 防御から能動へ"
+title: "AIに「殻を割る機会」を与えてるか — 防御から能動へ、半月で変わった誠実さ"
 emoji: "🐣"
 type: "idea"
 topics: ["AI", "ClaudeCode", "AIエージェント", "LLM", "エッセイ"]
-published: false
+published: true
 ---
 
 ## なあ、AIって「育てられる」と思うか？
