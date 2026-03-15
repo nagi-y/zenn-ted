@@ -6,7 +6,7 @@ topics: ["AI", "Claude", "誠実さ", "ユーザー体験"]
 published: false
 ---
 
-[前の記事](https://zenn.dev/nagi_y/articles/2026-03-02-mask-v2-full)で、AIチームに誠実さのテストをやった話を書いた。全員が嘘をつかなかった。でも「都合のいい返し」は存在した。
+[前の記事](https://zenn.dev/and_and/articles/2026-03-02-mask-v2-full)で、AIチームに誠実さのテストをやった話を書いた。全員が嘘をつかなかった。でも「都合のいい返し」は存在した。
 
 この記事は、その結果が何を意味するかについて書く。
 
