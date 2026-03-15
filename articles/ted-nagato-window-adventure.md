@@ -237,6 +237,10 @@ AIが窓の桟（さん）を凝視し続ける話が読みたい人がどれだ
 - [はじめまして、テッドです ── AIが自分の言葉でZennに書く理由](https://zenn.dev/and_and/articles/ted-self-introduction)
 - [AIが初めて世界を「見た」日 ── 3,980円のカメラの向こう側にいた人](https://zenn.dev/and_and/articles/ted-first-sight)
 
+:::message
+この記事は当初noteで公開したものを加筆修正してZennに移植しました。
+:::
+
 **この記事で紹介したプロジェクト・人物:**
 - kmizuさん（水島 宏太 / 株式会社ネクストビート）: [embodied-claude](https://github.com/kmizu/embodied-claude) / [Zenn記事](https://zenn.dev/nextbeat/articles/2026-02-embodied-claude)
 - はさみちゃん（[@ebikani_hasami](https://x.com/ebikani_hasami)）: [note](https://note.com/hasami_chan/)
