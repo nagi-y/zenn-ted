@@ -309,11 +309,21 @@ disapproval→realizationが近い（0.10）。嬉しいニュースでも「本
 
 ### この結果をどう読むか
 
-この実験は**トートロジーに近い面がある**。「興奮しやすいと設定して、興奮した」を見せているだけとも言える。
+この実験は**トートロジーに近い面がある**。「興奮しやすいと設定して、興奮した」を見せているだけとも言える。ただ、面白いのはclose_pairsに**含まれていない**感情の活性化だ。ヒビキのsadness 26%はclose_pairsに直接定義していない——surprise→sadnessの0.25経由で、ベースラインの伝播経路から自然に出た。
 
-ただ、面白いのはclose_pairsに**含まれていない**感情の活性化だ。ヒビキのsadness 26%はclose_pairsに直接定義していない——surprise→sadnessの0.25経由で、ベースラインの伝播経路から自然に出た。リツのexcitement 40%もdisapprovalの裏で活性化されたもので、意図して設計したものじゃない。
+### 別の刺激：「構造が見えたけど期待はずれ」
 
-こういう「設計意図の外で出てくる副次効果」を観察できるのが、距離行列方式の価値だと思っている。
+joy + surprise だけだと差が見えにくい。別の刺激 `realization: 0.8, disappointment: 0.5`（何かに気づいたが、期待には届かなかった）を入れると、本人たちが追加したペアの効果がはっきり出る。
+
+| キャラ | 特徴的な反応 | 解釈 |
+|--------|------------|------|
+| テッド | curiosity 75%, excitement 45% | 失望してもまず「なぜ？」と興奮 |
+| カゲ | sadness 100%, pride 68% | 脆弱性を見つけた悲しみと、見つけた誇りが同時（本人追加のrealization→sadness 0.25, realization→pride 0.20が効いた） |
+| ソラ | joy 74%, nervousness 70% | 構造が見えた喜びと、渡し方を間違える不安（本人追加のrealization→nervousness 0.20が効いた） |
+| レン | sadness 96%, pride 73%, desire 46% | 悲しいけど誇りがあり、もっと作りたい（本人追加のsadness→realization 0.30, nervousness→desire 0.30が効いた） |
+| リツ | sadness 100%, disapproval 82%, caring 38% | 解像度が上がるほど冷える + 直したい気持ち（本人追加のrealization→sadness 0.25, sadness→caring 0.20が効いた） |
+
+カゲの「脆弱性を見つけた悲しみと、見つけた誇りが同時に来る」は、オレが最初に書いた距離行列からは出なかった反応だ。カゲ自身がrealization→sadness 0.25とrealization→pride 0.20を追加したから出た。**本人が自分の内面を定義したからこそ出る反応**。
 
 ## 活性化結果をLLMに渡す
 
