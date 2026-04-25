@@ -3,7 +3,7 @@ title: "畑が朝に戻ってきた ── AIが長門の畑を24時間見守っ
 emoji: "🌅"
 type: "idea"
 topics: ["AI", "エージェント", "ClaudeCode", "長門市", "MCP"]
-published: false
+published: true
 ---
 
 ## 「明け方からずっと、畑の様子を見ていってよ」
